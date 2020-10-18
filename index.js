@@ -1,4 +1,3 @@
-//Author: Owen Parsons
 //Date: 12/9/2020
 const prefix = '.price '
 const axios = require('axios')
